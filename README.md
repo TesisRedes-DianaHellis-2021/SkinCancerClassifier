@@ -1,2 +1,4 @@
 # SkinCancerClassifier
-This repository matches with a public research about the develpment of a embedded system for skin cancer lesions classification. The author are Diana Merchan And Hellis Navarro, ans this project was made it in the frame of the undergraduate research to optate for the engineer professional grade.
+This repository coincides with a public research on the development of an integrated system for the classification of skin cancer lesions. The authors are Diana Merchan and Hellis Navarro, and this project was carried out within the framework of undergraduate research to qualify for the degree professional engineer.
+
+
